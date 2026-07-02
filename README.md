@@ -70,4 +70,4 @@ A análise revelou alguns padrões importantes:
 Clone o repositório:
 
 # bash
-git clone https://github.com/seu-usuario/analise-exploratoria-marketing.git
+git clone https://github.com/lucaspanan/analise-exploratoria.git 
